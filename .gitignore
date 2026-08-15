@@ -1,0 +1,11 @@
+# Microsoft Office temporary and lock files
+~$*
+*.tmp
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local editor settings
+.vscode/
